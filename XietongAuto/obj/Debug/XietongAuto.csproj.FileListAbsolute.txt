@@ -1,0 +1,16 @@
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\XietongAuto.exe.config
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\obj\Debug\XietongAuto.csprojResolveAssemblyReference.cache
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\obj\Debug\XietongAuto.MainForm.resources
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\obj\Debug\XietongAuto.Properties.Resources.resources
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\obj\Debug\XietongAuto.csproj.GenerateResource.Cache
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\XietongAuto.exe
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\XietongAuto.pdb
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\NPOI.dll
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\NPOI.OOXML.dll
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\NPOI.xml
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\obj\Debug\XietongAuto.exe
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\obj\Debug\XietongAuto.pdb
+C:\Users\GGPC\Documents\Visual Studio 2012\Projects\XietongAuto\XietongAuto\bin\Debug\OpenPop.dll

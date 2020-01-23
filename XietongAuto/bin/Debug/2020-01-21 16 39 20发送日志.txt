@@ -1,0 +1,6 @@
+发送成功：罗正luo_z.ggg@im.gx.csg
+发送成功：韦晓东wei_xd.ggg@im.gx.csg
+发送成功：韦晓东1wei_xd.ggg@im.gx.csg1
+发送失败：韦晓东2wei_xd.ggg2@im.gx.csg，目标邮件错误
+发送失败：韦晓东3wei_xd.gggp@im.gx.csg，目标邮件错误
+发送成功：韦晓东1wei_xd1.ggg@im.gx.csg1
